@@ -14,7 +14,7 @@ https://www.screensaversplanet.com/screensavers/hal-9000-301/
 "However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
 Telemetry screens use "Manifold" from Selectric type Elements.
 
-[Eurostile](https://www.myfonts.com/fonts/linotype/eurostile/bold-extended-2-63893/) costs to license.  Other options include [Michroma](https://fonts.google.com/specimen/Michroma), [Grammara](https://fonts2u.com/grammara-normal.font), [Moki Mono](https://www.myfonts.com/fonts/facetype/moki/mono/).  
+[Eurostile](https://www.myfonts.com/fonts/linotype/eurostile/bold-extended-2-63893/) costs to license.  Other options include [Michroma](https://fonts.google.com/specimen/Michroma), [Grammara](https://fonts2u.com/grammara-normal.font), [Moki Mono](https://www.myfonts.com/fonts/facetype/moki/mono/).  The script in this repo is set to moki, adjust as neede for your system.
 
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, left-aligned to about half a letter left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ".  The spaces are very narrow.
