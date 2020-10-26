@@ -15,8 +15,11 @@ Telemetry screens use "Manifold" from Selectric type Elements.
 
 [Eurostile](https://www.myfonts.com/fonts/linotype/eurostile/bold-extended-2-63893/) costs to license.  Other options include [Michroma](https://fonts.google.com/specimen/Michroma), [Grammara](https://fonts2u.com/grammara-normal.font), [Moki Mono](https://www.myfonts.com/fonts/facetype/moki/mono/).  The script in this repo is set to moki, adjust as neede for your system.
 
+## statusscreen.py
+The font spacing values have been calculated from the Moki font on an HD (1920x1080) screen, and using a different font or resolution would most likely require some changes.  But it's pretty close to the 9k sysinfo displays.  Will try and figure out how to add the graphs and text readout screens in some day. 
+
 ### System screens:
-All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, left-aligned to about half a letter left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ".  The spaces are very narrow.
+All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  
 
 COM (purple)  
 VEH (dark blue)  
