@@ -51,7 +51,7 @@ def set_bgcolor(bgcolor):
     screen.fill(bgcolor)
     pygame.display.update()
 
-def add_text(text_string, text_color):
+def add_text(text_string):
     """ write the text to display. """
     font = pygame.font.SysFont("moki", 128, bold=True)
 #    font = pygame.font.Font(None, 55)
@@ -74,8 +74,8 @@ while True:
     if next_sys == sysentry:
         next_sys = sysentry + 1
     sysitem = sysstrings[next_sys]
-    set_bgcolor(sysbgcolor[next_sys])
-    add_text(sysitem, 'white')
+    set_bgcolor(sysbgcolors[next_sys])
+    add_text(sysitem)
     add_subtext()
     display_time = random.randint(0, 15) + min_time
     time.sleep(display_time)
