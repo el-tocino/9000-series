@@ -45,6 +45,7 @@ def sub_text():
 
 def set_bgcolor(bgcolor):
     """ fill the screen with a color. """
+    print(bgcolor)
     pygame.display.flip()
     screen.fill(pygame.Color(bgcolor))
     pygame.display.update()
@@ -53,7 +54,7 @@ def add_text(text_string):
     """ write the text to display. """
     font = pygame.font.SysFont("moki", int(wres / 8), bold=True)
     text = font.render(text_string, True, white)
-    text_rect = text.get_rect(center=(int(wres / 2), int(hres / 2)))
+    text_rect = text.get_rect(center=(int(wres / 2), int(hres / 2 + (wres / 40))))
     screen.blit(text, text_rect)
     pygame.display.update()
 
@@ -62,7 +63,7 @@ def add_subtext():
     st = sub_text()
     font = pygame.font.SysFont("moki", int(wres / 64), bold=True)
     text = font.render(st, True, white)
-    text_rect = text.get_rect(center=(int(wres / 5), int(hres / 2 - (wres / 10))))
+    text_rect = text.get_rect(center=(int(wres / 5), int(hres / 2 - (wres / 20))))
     screen.blit(text, text_rect)
     pygame.display.update()
 
