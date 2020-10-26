@@ -5,7 +5,7 @@ A collection of info and images from the 9000 series
 https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/
 
 https://aphelis.net/scratches-kubrick-2001-space-odyssey/
-“A lot of the readouts were generic,” further explained Bruce Logan4, the talented cameraman mentioned by Trumbull, “– nothing very carefully thought out. There just needed to be something moving on the viewscreens. Doug and I would strip up graphs and such, and then start blinking on lettering and numbers.” 
+“A lot of the readouts were generic,” further explained Bruce Logan, the talented cameraman mentioned by Trumbull, “– nothing very carefully thought out. There just needed to be something moving on the viewscreens. Doug and I would strip up graphs and such, and then start blinking on lettering and numbers.” 
 
 Some images available here:
 https://www.screensaversplanet.com/screensavers/hal-9000-301/
