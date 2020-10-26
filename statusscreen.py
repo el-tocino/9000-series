@@ -45,7 +45,6 @@ def sub_text():
 
 def set_bgcolor(bgcolor):
     """ fill the screen with a color. """
-    print(bgcolor)
     pygame.display.flip()
     screen.fill(pygame.Color(bgcolor))
     pygame.display.update()
