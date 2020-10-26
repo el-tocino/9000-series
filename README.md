@@ -1,5 +1,4 @@
-# 9000-series
-A collection of info and images from the 9000 series
+# 9000 series System Status display tool
 
 ## Info and links
 https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/
