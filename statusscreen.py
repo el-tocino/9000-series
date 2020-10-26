@@ -22,7 +22,7 @@ black = [0, 0, 0]
 burgundy = [128, 0, 32]
 navy = [0, 0, 153]
 purple = [153, 51, 102]
-darkblue = [0, 0, 139]
+darkblue = [0, 51, 102]
 min_time = 5
 sysstrings = ('COM', 'VEH', 'NAV', 'GDE', 'CNT', 'NUC', 'ATM', 'HIB', 'DMG',
               'FLX', 'LIF', 'MEM', 'DMC')
