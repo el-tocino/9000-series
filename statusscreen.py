@@ -1,4 +1,5 @@
 """ 9000 series system status screen display engine """
+#!python3
 import random
 import string
 import time
@@ -11,12 +12,11 @@ screentraits = pygame.display.Info()
 wres = screentraits.current_w
 hres = screentraits.current_h
 screen = pygame.display.set_mode([wres, hres])
-## set various colors
 white = [255, 255, 255]
 red = [255, 0, 0]
 brightred = [170, 1, 20]
 blue = [51, 51, 255]
-green = [0, 255, 0]
+green = [34, 139, 34]
 yellow = [255, 250, 25]
 black = [0, 0, 0]
 burgundy = [128, 0, 32]
@@ -24,8 +24,11 @@ navy = [0, 0, 153]
 purple = [153, 51, 102]
 darkblue = [0, 0, 139]
 min_time = 5
-sysstrings = ('COM', 'VEH', 'NAV', 'GDE', 'CNT', 'NUC', 'ATM', 'HIB', 'DMG', 'FLX', 'LIF', 'MEM', 'DMC')
-sysbgcolors = ('purple', 'darkblue', 'darkblue', 'navy', 'green', 'darkblue', 'red', 'green', 'brightred', 'navy', 'red', 'blue', 'burgundy')
+sysstrings = ('COM', 'VEH', 'NAV', 'GDE', 'CNT', 'NUC', 'ATM', 'HIB', 'DMG',
+              'FLX', 'LIF', 'MEM', 'DMC')
+sysbgcolors = ('purple', 'darkblue', 'darkblue', 'navy', 'green', 'darkblue',
+               'red', 'green', 'brightred', 'navy', 'red', 'blue', 'burgundy')
+
 sysentry = 0
 
 
@@ -57,19 +60,22 @@ def add_text(text_string, text_color):
     screen.blit(text, text_rect)
     pygame.display.update()
 
-def add_subtext(text_string, text_color):
+def add_subtext():
     """ add sub-text to display. """
     st = sub_text
+    font = pygame.font.SysFont("moki", 24, bold=True)
+    text = font.render(st, True, white)
+    text_rect = text.get_rect(center=(int(wres / 2 - 100), int(hres / 2 - 100)))
+    screen.blit(text, text_rect)
+    pygame.display.update()
 
-               
 while True:
-    next_sys = random.random(0,12)
+    next_sys = random.randint(0, 12)
     if next_sys == sysentry:
         next_sys = sysentry + 1
     sysitem = sysstrings[next_sys]
-    syscolor = sysbgcolors[next_sys]
-    set_bgcolor(syscolor)
+    set_bgcolor(sysbgcolor[next_sys])
     add_text(sysitem, 'white')
     add_subtext()
-    display_time = random.random(0,15) + min_time
+    display_time = random.randint(0, 15) + min_time
     time.sleep(display_time)
