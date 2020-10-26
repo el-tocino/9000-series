@@ -3,8 +3,6 @@ A collection of info and images from the 9000 series
 
 ## Info and links
 https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/
-"However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
-Telemetry screens use "Manifold" from Selectric type Elements.
 
 https://aphelis.net/scratches-kubrick-2001-space-odyssey/
 “A lot of the readouts were generic,” further explained Bruce Logan4, the talented cameraman mentioned by Trumbull, “– nothing very carefully thought out. There just needed to be something moving on the viewscreens. Doug and I would strip up graphs and such, and then start blinking on lettering and numbers.” 
@@ -12,7 +10,11 @@ https://aphelis.net/scratches-kubrick-2001-space-odyssey/
 Some images available here:
 https://www.screensaversplanet.com/screensavers/hal-9000-301/
 
-Eurostile costs to license, but OPTI edgar bold extended appears to be a suitable personal-use option.
+## Font
+"However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
+Telemetry screens use "Manifold" from Selectric type Elements.
+
+[Eurostile](https://www.myfonts.com/fonts/linotype/eurostile/bold-extended-2-63893/) costs to license.  Other options include [Michroma](https://fonts.google.com/specimen/Michroma), [Grammara](https://fonts2u.com/grammara-normal.font), [Moki Mono](https://www.myfonts.com/fonts/facetype/moki/mono/).  
 
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, left-aligned to the three letter box is a secondary string.  
@@ -51,6 +53,7 @@ horizontal single-line plot (2x)
 Map
 Radar
 spirals
+
 
 ### Text screens (navy, white text):
 numbers (left aligned one tab in)
