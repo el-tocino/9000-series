@@ -19,14 +19,15 @@ Telemetry screens use "Manifold" from Selectric type Elements.
 The font spacing values have been calculated from the Moki font on an HD (1920x1080) screen, and using a different font or resolution would most likely require some changes.  But it's pretty close to the 9k sysinfo displays.  Will try and figure out how to add the graphs and text readout screens in some day. 
 
 ### System screens:
-All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  
+All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
 
+From the film and screen shots:  
 COM (purple)  
 VEH (dark blue)  
 NAV (dark blue)  
 GDE (navy)  
 CNT (green)  
-NUC (dark blue, has an inferred 30s probable display time)  
+NUC (dark blue)  
 ATM (red)  
 HIB (green)  
 DMG (bright red)  
@@ -60,4 +61,4 @@ spirals
 
 ### Text screens (navy, white text):
 numbers (left aligned one tab in)  
-list of items, with numbers.  period-padded, top item and sub items, four LF spacing between various items
+list of items, with numbers.  period-padded, a top item with indented sub-item list, four(?) LF spacing between various items
