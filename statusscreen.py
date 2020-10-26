@@ -1,5 +1,6 @@
 """ 9000 series system status screen display engine """
 import random
+import string
 import time
 import pygame
 
