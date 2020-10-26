@@ -17,7 +17,7 @@ Telemetry screens use "Manifold" from Selectric type Elements.
 [Eurostile](https://www.myfonts.com/fonts/linotype/eurostile/bold-extended-2-63893/) costs to license.  Other options include [Michroma](https://fonts.google.com/specimen/Michroma), [Grammara](https://fonts2u.com/grammara-normal.font), [Moki Mono](https://www.myfonts.com/fonts/facetype/moki/mono/).  
 
 ### System screens:
-All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, left-aligned to about half a letter left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ".  The spaces are very narrow.  
+All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, left-aligned to about half a letter left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ".  The spaces are very narrow.
 
 COM (purple)  
 VEH (dark blue)  
