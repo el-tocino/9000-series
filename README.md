@@ -19,17 +19,17 @@ Telemetry screens use "Manifold" from Selectric type Elements.
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, left-aligned to about half a letter left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ".  The spaces are very narrow.  
 
-COM (purple)
-VEH (dark blue bg)
-NAV
-GDE (navy)
-CNT (green)
-NUC (dark blue, 30s probable display time)
-ATM (red)
-HIB (green)
-DMG (bright red)
-FLX (navy)
-LIF 
+COM (purple)  
+VEH (dark blue)  
+NAV (dark blue)
+GDE (navy)  
+CNT (green)  
+NUC (dark blue, has an inferred 30s probable display time)  
+ATM (red)  
+HIB (green)  
+DMG (bright red)  
+FLX (navy)  
+LIF (red)  
 MEM (blue)
 DMC (burgundy)
 
