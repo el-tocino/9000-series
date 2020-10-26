@@ -21,7 +21,7 @@ All system screens have a three-letter acronym or partial word, centered just be
 
 COM (purple)  
 VEH (dark blue)  
-NAV (dark blue)
+NAV (dark blue)  
 GDE (navy)  
 CNT (green)  
 NUC (dark blue, has an inferred 30s probable display time)  
