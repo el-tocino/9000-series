@@ -18,6 +18,11 @@ Telemetry screens use "Manifold" from Selectric type Elements.
 ## statusscreen.py
 The font spacing values have been calculated from the Moki font on an HD (1920x1080) screen, and using a different font or resolution would most likely require some changes.  But it's pretty close to the 9k sysinfo displays.  Will try and figure out how to add the graphs and text readout screens in some day. 
 
+(9k-31.png)  
+(9k-11.png)  
+(9k-21.png)  
+
+
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
 
