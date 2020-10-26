@@ -13,15 +13,9 @@ wres = screentraits.current_w
 hres = screentraits.current_h
 screen = pygame.display.set_mode([wres, hres])
 white = [200, 200, 200]
-#red = '#950000'
-#brightred = '#aa0114'
-#blue = '#3333ff'
-#green = '#006600'
-#burgundy = '#800020'
-#navy = '#000099'
-#purple = '#993366'
-#darkblue = '#00008b'
+
 min_time = 5
+
 sysstrings = ('COM', 'VEH', 'NAV', 'GDE', 'CNT', 'NUC', 'ATM', 'HIB', 'DMG',
               'FLX', 'LIF', 'MEM', 'DMC')
 sysbgcolors = ('#993366', '#00008b', '#00008b', '#000099', '#006600', '#00008b',
