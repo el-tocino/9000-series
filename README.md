@@ -32,8 +32,9 @@ LIF (red)
 MEM (blue)  
 DMC (burgundy)  
 
-
 Minimum screen time seems to be 5s per screen
+
+## Other screens to try out in the future
 
 ### STAT screen: 
 three columns of numbers,
@@ -41,19 +42,19 @@ three columns of numbers,
 
 
 ### "vertical" Graphs (varying colors, mostly blue or dark red bg, all white text):
-BL 78 (right side has column of values)
-ST 74
-SLOL
-CHMK
+BL 78 (right side has column of values)  
+ST 74  
+SLOL  
+CHMK  
 
 
 ### Unnamed graphs (mostly lighter blue or aqua, at least one is purple bg, white lines):
-horizontal single-line plot (2x)
-Map
-Radar
-spirals
+horizontal single-line plot (2x)  
+Map  
+Radar  
+spirals  
 
 
 ### Text screens (navy, white text):
-numbers (left aligned one tab in)
+numbers (left aligned one tab in)  
 list of items, with numbers.  period-padded, top item and sub items, four LF spacing between various items
