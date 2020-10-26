@@ -30,8 +30,8 @@ HIB (green)
 DMG (bright red)  
 FLX (navy)  
 LIF (red)  
-MEM (blue)
-DMC (burgundy)
+MEM (blue)  
+DMC (burgundy)  
 
 
 Minimum screen time seems to be 5s per screen
