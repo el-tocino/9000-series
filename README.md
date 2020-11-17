@@ -67,3 +67,8 @@ spirals
 ### Text screens (navy, white text):
 numbers (left aligned one tab in)  
 list of items, with numbers.  period-padded, a top item with indented sub-item list, four(?) LF spacing between various items
+
+
+### IRL things
+
+The crew Dragon docking screens can be seen (here)[crewdragon-docking screens.png] for comparison.
