@@ -71,4 +71,4 @@ list of items, with numbers.  period-padded, a top item with indented sub-item l
 
 ### IRL things
 
-The crew Dragon docking screens can be seen (here)[crewdragon-docking screens.png] for comparison.
+The crew Dragon docking screens can be seen [here](crewdragon-docking screens.png) for comparison.
