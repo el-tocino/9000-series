@@ -53,3 +53,31 @@ index 0-10, 0-100
     y = x^2 - 2
 
 """
+
+""" Smpother plot lines with scipy!
+import matplotlib.pyplot as plt
+import numpy as np
+import random
+from scipy import interpolate
+
+howmany = 25
+yrange = 10
+yvals = []
+for i in range(howmany):
+    n = random.randint(0, yrange)
+    yvals.append(n)
+
+xvals = np.linspace(0, howmany, 10)
+xvals2 = np.linspace(0, howmany, 200)
+y = np.asarray(yvals)
+ysmoothed1 = interpolate.InterpolatedUnivariateSpline(xvals, y)
+ysmoothed2 = interpolate.Rbf(xvals, y)
+ysmoothed3 = interpolate.splrep(xvals, y)
+ycurve = ysmoothed1(xvals2)
+ycurve2 = ysmoothed2(xvals2)
+ycurve3 = interpolate.splev(xvals2, ysmoothed3)
+plt.plot(xvals2, ycurve)
+plt.plot(xvals2, ycurve2)
+plt.plot(xvals2, ycurve3)
+plt.show()
+"""
