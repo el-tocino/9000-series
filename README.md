@@ -1,6 +1,8 @@
 # 9000 series System Status display tool
 
 ## Info and links
+
+### Design 
 https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/
 
 https://aphelis.net/scratches-kubrick-2001-space-odyssey/
@@ -9,7 +11,7 @@ https://aphelis.net/scratches-kubrick-2001-space-odyssey/
 Some images available here:
 https://www.screensaversplanet.com/screensavers/hal-9000-301/
 
-## Font
+### Font
 "However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
 Telemetry screens use "Manifold" from Selectric type Elements.
 
@@ -75,3 +77,27 @@ The crew Dragon docking screens can be seen [1](https://github.com/el-tocino/900
 
 Other renderings of the spacex ui can be seen [here](https://www.designnews.com/sites/designnews.com/files/Design%20News/Dan%20Carney%20SpaceX%20Crew%20Dragon%20display_0.jpg) and [here](https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-30-at-5.06.14-PM.jpg)
 
+### Other bits of note
+
+Computer design documents:  
+https://archive.computerhistory.org/resources/access/still-image/2010/09/102695548-03-01-acc.pdf  
+
+HAL's voice:  
+https://www.telegraph.co.uk/films/0/stanley-kubrick-douglas-rain-found-voice-hal-9000-accidentally/  
+  
+Douglas Rain, in Henry V:  
+https://www.telegraph.co.uk/content/dam/films/2018/11/12/left_trans_NvBQzQNjv4BqLisXW7ze7DC8Ly7UG060poJV7v12XYxL1FnhYhkTH_E.jpg?imwidth=1240  
+  
+IMDB Page:  
+https://www.imdb.com/title/tt0062622/   
+  
+Behind the scenes interview with Kubrick:
+https://ascmag.com/articles/filming-2001-a-space-odyssey  
+  
+HAL 9000 wiki page:  
+https://en.wikipedia.org/wiki/HAL_9000  
+  
+Douglas Trumbull was murdered on set:  
+https://www.hollywoodreporter.com/behind-screen/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803  
+
+  
