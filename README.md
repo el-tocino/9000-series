@@ -23,7 +23,7 @@ The font spacing values have been calculated from the Moki font on an HD (1920x1
 ![screenshot](9k-31.png)  
 ![screenshot](9k-11.png)  
 ![screenshot](9k-21.png)  
-
+![screenshot](hal9k-display.jpg)  
 
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
@@ -91,7 +91,7 @@ https://www.telegraph.co.uk/content/dam/films/2018/11/12/left_trans_NvBQzQNjv4Bq
 IMDB Page:  
 https://www.imdb.com/title/tt0062622/   
   
-Behind the scenes interview with Kubrick:
+Behind the scenes interview with Kubrick:  
 https://ascmag.com/articles/filming-2001-a-space-odyssey  
   
 HAL 9000 wiki page:  
