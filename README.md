@@ -71,7 +71,7 @@ list of items, with numbers.  period-padded, a top item with indented sub-item l
 
 ### IRL things
 
-The crew Dragon docking screens can be seen [1](https://github.com/el-tocino/9000-series/blob/default/crewdragon-docking%20screens.png), [1](https://github.com/el-tocino/9000-series/blob/default/crewdragon-docking%20screens2.png), and [3](https://github.com/el-tocino/9000-series/blob/default/crewdragon-docking%20screens3.png) for comparison.
+The crew Dragon docking screens can be seen [1](https://github.com/el-tocino/9000-series/blob/default/crewdragon-docking%20screens.png), [2](https://github.com/el-tocino/9000-series/blob/default/crewdragon-docking%20screens2.png), and [3](https://github.com/el-tocino/9000-series/blob/default/crewdragon-docking%20screens3.png) for comparison.
 
 Other renderings of the spacex ui can be seen [here](https://www.designnews.com/sites/designnews.com/files/Design%20News/Dan%20Carney%20SpaceX%20Crew%20Dragon%20display_0.jpg) and [here](https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-30-at-5.06.14-PM.jpg)
 
