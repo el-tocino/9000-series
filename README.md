@@ -118,5 +118,12 @@ https://en.wikipedia.org/wiki/HAL_9000
   
 Douglas Trumbull was murdered on set:  
 https://www.hollywoodreporter.com/behind-screen/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803  
-
   
+Sound clips of HAL:
+https://github.com/mawob/HAL9000  
+https://markus-wobisch.blogspot.com/2020/03/im-sorry-dave-all-hal-9000-quotes-from.html  
+  
+All movie instances of HAL interfaces:
+https://www.therpf.com/forums/threads/how-many-different-hal-9000-faceplates-are-there-in-2001-a-space-odyssey.333820/
+
+
