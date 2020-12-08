@@ -81,3 +81,20 @@ plt.plot(xvals2, ycurve2)
 plt.plot(xvals2, ycurve3)
 plt.show()
 """
+
+"""
+more thoughts
+
+from itertools import islice
+
+randvaluelist = []
+
+with open("datafile") as myfile:
+    head = list(islice(myfile, N))
+    randvaluelist.append(len(head))
+
+
+fig.patch.set_facecolor('xkcd:dark blue')
+ax.set_facecolor('xkcd:dark blue')
+ax.set_facecolor((1.0, 0.47, 0.42))
+"""
