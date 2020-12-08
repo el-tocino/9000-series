@@ -5,8 +5,6 @@
 
 “A lot of the readouts were generic,” further explained Bruce Logan, the talented cameraman mentioned by Trumbull, “– nothing very carefully thought out. There just needed to be something moving on the viewscreens. Doug and I would strip up graphs and such, and then start blinking on lettering and numbers.” 
 
-
-
 ### Font  
 
 "However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
@@ -20,7 +18,6 @@ The font spacing values have been calculated from the Moki font on an HD (1920x1
 ![screenshot](9k-31.png)  
 ![screenshot](9k-11.png)  
 ![screenshot](9k-21.png)  
-![screenshot](hal9k-display.jpg)  
 
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
@@ -62,10 +59,13 @@ Map
 Radar  
 spirals  
 
-
 ### Text screens (navy, white text):
 numbers (left aligned one tab in)  
 list of items, with numbers.  period-padded, a top item with indented sub-item list, four(?) LF spacing between various items
+
+### Screen caps of various media:
+
+![screenshot](hal9k-display.jpg)  
 
 
 ### IRL things
