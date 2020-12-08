@@ -1,4 +1,4 @@
-# 9000 series System Status display tool
+# 9000-Series System Status display tool
 
 ## Info and links
 
