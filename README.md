@@ -9,8 +9,8 @@
 
 ### Font  
 
-"However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
-Telemetry screens use "Manifold" from Selectric type Elements.
+"However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens."  
+Telemetry screens use "Manifold" from Selectric type Elements.  
 
 [Eurostile](https://www.myfonts.com/fonts/linotype/eurostile/bold-extended-2-63893/) costs to license.  Alternative options include [Michroma](https://fonts.google.com/specimen/Michroma), [Grammara](https://fonts2u.com/grammara-normal.font), and [Moki Mono](https://www.myfonts.com/fonts/facetype/moki/mono/).  
 
