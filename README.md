@@ -39,6 +39,11 @@ DMC (burgundy)
 
 Minimum screen time seems to be 5s per screen
 
+![Main console](9k-octodisplay.png)
+![screensaver image](hal-9000-1.png)
+![screensaver image](hal-9000-2.png)
+![screensaver image](hal-9000-3.png)
+
 ## Other screens to try out in the future
 
 ### STAT screen: 
@@ -55,24 +60,19 @@ CHMK
 ### System screens
 The AE-35 antenna is drawn on one screen when discussing troubleshooting it.
 
+![AE-35 antenna](hal9k-display.jpg)  
+
 ### Unnamed graphs (mostly lighter blue or aqua, at least one is purple bg, white lines):
 horizontal single-line plot (2x)  
 Map  
 Radar  
 spirals  
 
+![Pod console](HAL9000-COM-scratches.jpg)  
+
 ### Text screens (navy, white text):
 numbers (left aligned one tab in)  
 list of items, with numbers.  period-padded, a top item with indented sub-item list, four(?) LF spacing between various items
-
-### Screen caps of various media:
-
-![AE-35 antenna](hal9k-display.jpg)  
-![Main console](9k-octodisplay.png)
-![Pod console](HAL9000-COM-scratches.jpg)
-![screensaver image](hal-9000-1.png)
-![screensaver image](hal-9000-2.png)
-![screensaver image](hal-9000-3.png)
 
 ### IRL things
 
