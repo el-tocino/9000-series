@@ -20,7 +20,7 @@ The font spacing values have been calculated from the Moki font on an HD (1920x1
 ![screenshot](9k-21.png)  
 
 ### System screens:
-All system screens have a three-letter acronym or partial word, centered just below the middle.  Just above in a smaller font, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
+All system screens have a three-letter acronym or partial word, centered just below the middle of the scree.  Just above in a smaller text string, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  While this is probably due to the production of them, I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
 
 From the film and screen shots:  
 COM (purple)  
@@ -52,6 +52,8 @@ ST 74
 SLOL  
 CHMK  
 
+### System screens
+The AE-35 antenna is drawn on one screen when discussing troubleshooting it.
 
 ### Unnamed graphs (mostly lighter blue or aqua, at least one is purple bg, white lines):
 horizontal single-line plot (2x)  
