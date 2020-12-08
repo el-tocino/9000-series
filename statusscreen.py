@@ -11,7 +11,7 @@ pygame.init()
 screentraits = pygame.display.Info()
 wres = screentraits.current_w
 hres = screentraits.current_h
-screen = pygame.display.set_mode([wres, hres])
+screen = pygame.display.set_mode([wres, hres], pygame.FULLSCREEN)
 white = [200, 200, 200]
 
 min_time = 5
