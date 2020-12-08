@@ -1,19 +1,14 @@
 # 9000-Series System Status display tool
 
-## Info and links
-
+## Info 
 ### Design 
 
-https://aphelis.net/scratches-kubrick-2001-space-odyssey/
 “A lot of the readouts were generic,” further explained Bruce Logan, the talented cameraman mentioned by Trumbull, “– nothing very carefully thought out. There just needed to be something moving on the viewscreens. Doug and I would strip up graphs and such, and then start blinking on lettering and numbers.” 
 
-Some images available here:
-https://www.screensaversplanet.com/screensavers/hal-9000-301/
+
 
 ### Font  
 
-
-https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/  
 "However, I do know that this section of the movie contains some absolutely Eurostile-tastic HAL 9000 screens"
 Telemetry screens use "Manifold" from Selectric type Elements.
 
@@ -80,6 +75,15 @@ The crew Dragon docking screens can be seen [1](https://github.com/el-tocino/900
 Other renderings of the spacex ui can be seen [here](https://www.designnews.com/sites/designnews.com/files/Design%20News/Dan%20Carney%20SpaceX%20Crew%20Dragon%20display_0.jpg) and [here](https://techcrunch.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-30-at-5.06.14-PM.jpg)
 
 ### Other bits of note
+
+How the displays were animated:  
+https://aphelis.net/scratches-kubrick-2001-space-odyssey/  
+  
+Some images available here:  
+https://www.screensaversplanet.com/screensavers/hal-9000-301/  
+  
+Typefaces used in 2001:  
+https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/  
 
 Computer design documents:  
 https://archive.computerhistory.org/resources/access/still-image/2010/09/102695548-03-01-acc.pdf  
