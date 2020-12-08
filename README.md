@@ -65,8 +65,12 @@ list of items, with numbers.  period-padded, a top item with indented sub-item l
 
 ### Screen caps of various media:
 
-![screenshot](hal9k-display.jpg)  
-
+![AE-35 antenna](hal9k-display.jpg)  
+![Main console](9k-octodisplay.png)
+![Pod console](HAL9000-COM-scratches.jpg)
+![screensaver image](hal-9000-1.jpg)
+![screensaver image](hal-9000-2.jpg)
+![screensaver image](hal-9000-3.jpg)
 
 ### IRL things
 
