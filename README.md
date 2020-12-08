@@ -23,7 +23,7 @@ The font spacing values have been calculated from the Moki font on an HD (1920x1
 ### System screens:
 All system screens have a three-letter acronym or partial word, centered just below the middle of the scree.  Just above in a smaller text string, aligned to about half a letter's distance left of the main text box is a secondary string.  The substrings look to follow the form "ABC: WX - YZ", and use half-spaces.  The colors have a muted or dark feel to them, and the screens aren't overly bright in the text parts.  While this is probably due to the production of them, I've attempted to recreate that with the included color choices.  Tweak as you see fit, of course. 
 
-From the film and screen shots:  
+From the first film and screen shots:  
 COM (purple)  
 VEH (dark blue)  
 NAV (dark blue)  
@@ -37,6 +37,12 @@ FLX (navy)
 LIF (red)  
 MEM (blue)  
 DMC (burgundy)  
+
+SAL 9000 adds in the additional items:
+PRS (blue)  
+SRT (red)  
+FLT (blue)  
+DMS (blue)  
 
 Minimum screen time seems to be 5s per screen
 
