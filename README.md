@@ -38,7 +38,7 @@ LIF (red)
 MEM (blue)  
 DMC (burgundy)  
 
-SAL 9000 adds in the additional items:
+SAL 9000 adds in the additional items:  
 PRS (blue)  
 SRT (red)  
 FLT (blue)  
