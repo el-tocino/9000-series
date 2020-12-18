@@ -20,7 +20,7 @@ lens:
 ~1/16" lens mounting ridge all around lens itself. 
 
 
-``
+```
  ________   _____
  |      |   |   |
  |      |   |   |
@@ -29,4 +29,4 @@ lens:
  |      |   |\_/|
  |      |   |---|
  --------   |%%%|
-``
+```
