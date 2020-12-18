@@ -1,3 +1,5 @@
+## Parts:
+
 Pi4 2gb
 
 Google AIY voice kit v1
@@ -6,6 +8,12 @@ Camera module:
 https://www.aliexpress.com/item/32961744277.html?spm=a2g0s.9042311.0.0.27424c4dHJyrjq
 requires an existing camera module pcb to connect to.
 camera itself is .25" square.
+
+Two short micro hdmi to hdmi cables  
+
+micro sd card  
+
+power supply for both the pi and screens   
 
 Screens:
 https://www.aliexpress.com/item/4000190370636.html?spm=a2g0s.9042311.0.0.2f674c4dnX4t0N  
